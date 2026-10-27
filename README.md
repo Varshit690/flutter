@@ -12,8 +12,8 @@ This repository is intended for students learning Flutter through practical exer
 
 **Praneeth Perumalla**
 
-- GitHub: [@Praneeth2711](https://github.com/Praneeth2711)
-- Repository: [Flutter Lab Programs](https://github.com/Praneeth2711/Flutter)
+- GitHub: [@Varshit690](https://github.com/Varshit690)
+- Repository: [Flutter Lab Programs](https://github.com/Varshit690/flutter)
 
 ## 🎯 Learning Objectives
 
